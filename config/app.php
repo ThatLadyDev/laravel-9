@@ -167,6 +167,7 @@ return [
         /*
          * Package Service Providers...
          */
+        \MailerLite\LaravelElasticsearch\ServiceProvider::class,
 
         /*
          * Application Service Providers...
